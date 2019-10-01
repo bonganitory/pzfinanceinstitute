@@ -1,0 +1,271 @@
+<?php
+////STORAGE
+
+
+////MANAGEMENT SERVICES
+$GLOBALS['managementservices']['servicename'] = "Management Services";
+$GLOBALS['managementservices']['managementservicesstatus'] = "active";
+$GLOBALS['managementservices']['images'] = ['assets/images/service/single-service1.jpg','assets/images/service/single-service2.jpg','assets/images/service/single-service2.3pg'];
+$GLOBALS['managementservices']['heading1'] = "Financial Management Services";
+$GLOBALS['managementservices']['paragraph1'] = "This service is offered to entrepreneurs as a necessary tool in assisting them to excel in their business ventures.<br/>&nbsp;<br/>&nbsp;<br/>This service consist of:
+<br/>&nbsp;<br/>
+ &bull; Financial Management Strategy<br/>
+ &bull; Asset & Business Valuations<br/>
+ &bull; Business Tax Planning<br/>
+ &bull; Assisting businesses in structuring their finance departments<br/>
+ &bull; Financial Statements analysis<br/>";
+
+$GLOBALS['managementservices']['sidenote'] = "We offer a professional personal accounting service to suit your needs specialising in small and medium sized businesses. ";
+
+
+////FINANCIAL MENTORSHIP
+$GLOBALS['financialmentorship']['servicename'] = "Financial Mentorship";
+$GLOBALS['financialmentorship']['financialmentorshipstatus'] = "active";
+$GLOBALS['financialmentorship']['images'] = ['assets/images/service/single-service1.jpg','assets/images/service/single-service2.jpg','assets/images/service/single-service2.3pg'];
+$GLOBALS['financialmentorship']['heading1'] = "Financial Mentorship";
+$GLOBALS['financialmentorship']['paragraph1'] = "Financial Mentorship is offered to Accounting Entrepreneurs and Financial Administrators to capacitate them with practical skills in order to ensure that they deliver competent service.
+<br/>&nbsp;<br/>
+Mentorship of Financial Administrators is arranged in cooperation with their employers.
+<br/>&nbsp;<br/>
+<br/>&nbsp;<br/>
+The Mentorship programme includes:
+<br/>&nbsp;<br/>
+ &bull; Bookkeeping process<br/>
+ &bull; Preparation of Management Accounts<br/>
+ &bull; Preparation of Financial Statements<br/>
+ &bull; Controlling of Cash Flow Systems<br/>
+ &bull; Budgeting<br/>
+ &bull; Tax Compliance<br/>
+ &bull; Payroll Administration<br/>";
+
+$GLOBALS['financialmentorship']['sidenote'] = "Advanced strategy for wealth building and retirement. Resources include financial calculators, and money coaching to achieve your goals.";
+
+
+
+$GLOBALS['accountingtechniciancourse']['inname'] = "Accounting Technician Course";
+$GLOBALS['accountingtechniciancourse']['indata'] = <<< HTML
+
+<h3>Accounting Technician course</h3>
+<p>Accounting Technician course (accredited by Accounting Technicians South Africa- AT (SA) ,an affiliate of South African Institute of Chartered Accountants – SAICA)</p>
+<blockquote>Applications are now open for Level 3, Hurry!!! Spaces are limited</blockquote>
+<p><b>Dates of course: Starting date 11 February 2019</b></p>
+<p>Classes starts at 08:00 till 15:00, from Monday to Wednesday</p>
+<p><b>Location:</b> Our classrooms are located at no 22 Island Circle in Riverhorse Valley in Durban Queen Nandi Drive Kwa-Zulu  Currently we have classes that are run for 3 days per week  in order for the students to be able to work as well as study. We will complete one module a month. At the end of each module, learners are assessed (most of the assessments are computer based).</p>
+<p><b>Duration of the course:</b>  Currently we have classes that are run for three days per week  in order for the students to be able to work as well as study. We will complete one module a month. At the end of each module, learners are assessed (most of the assessments are computer based).</p>
+<p><table border="1" rules="rows" style="border-collapse:collapse;border:1px solid #eee;">
+<tr><td colspan="4">
+Cost of the course:
+</td></tr><tr>
+<td>Details</td><td>Level 3</td><td>Level 4</td><td>Level 5</td></tr><tr>
+<td>Total fee per level</td><td>R24 305.76</td><td>R28 554.64</td><td>R25 047.15</td></tr><tr>
+<td>30% deposit during the first month</td><td>R7 291.73</td><td>R8 566.39</td><td>R7 514.15</td></tr><tr>
+<td>Monthly instalments</td><td>R4 253.51</td><td>R3 331.38</td><td>R3 506.60</td></tr><tr>
+<td>Duration of monthly instalments</td><td>4 Months</td><td>6 Months</td><td>5 Months</td></tr>
+</table></p>
+<p><a href="contact.php" style="color:royalblue;">Contact Us Now for Registration and More Information</a></p>
+<p><b>Entry Requirements for Accounting Technician Course</b></p>
+<p>Grade 12 with Accounting, Mathematics or Mathematical Literacy, or an employee who is performing bookkeeping or clerical duties who do not have accounting qualification. Prior to acceptance the learner will write an aptitude test aiming to assist a learner in discovering their core purpose for their existence in life, as research shows that, mostly many of people are locked within wrong careers and this leads to non-productivity within their respective work environment. If the applicant is applying to be under SIYAKHULISA PROGRAMME he/she will go through an interview process.</p>
+<p><b>Outcomes</b></p>
+<p>Accounting Technician qualification is built as a progression pathway that takes learners from a foundational level through to an advanced level of accounting knowledge, skills and competencies.</p>
+<p>The teaching and learning approach is focused on the application of the newly acquired skills from qualification to the workplace, the resultant outcome is a fit for purpose employee who is able to function independently, produce error free work and make a meaningful contribution to business performance.</p>
+<p><b>Employment Prospects</b></p>
+<p>Accounting Technicians play a vital support role to entrepreneurs in all sectors of the economy to improve organizational productivity and efficiency, thus the qualification enables accounting technicians to occupy diverse roles including senior bookkeeper, debtors’ clerk, creditors’ clerk and junior accountant.</p>
+<p>Accounting Technicians are able to execute a wider scope of job content such as: Preparation of the books of the first entry like cash book, balancing and monitoring of debtors and creditors, completing and submitting of income tax , VAT and Employees returns, preparing financial reports, assisting with budget preparation.</p>
+<p><b>Financial Administrators</b></p>
+<p>Zame Mthiyane says: “Having been in the accounting and finance sector for the past 14 years we have realized that there is a need of internal accounting personnel within the growing business to support the entrepreneur in recording day to day activities. Another challenge is that of a startup business, where an entrepreneur requires services of an accountant but affordability at this level is a problem and this results in non-compliance. In solving these challenges, PZ Finance Institute (the then PZ Consulting (Pty) Ltd ) has come up with a concept of training two kinds of candidates through Accounting Technician Qualification to bridge this gap.”</p>
+<p><b>How the PZ Finance Institute system works:</b></p>
+<ul>
+<li>Those who will be employed – these we call “Financial Administrators”</li>
+<li>Those who have entrepreneurial spirit and are passionate about running their own businesses offering bookkeeping, accounting, tax compliance and payroll services to small and micro businesses. – these we call “Accounting Entrepreneurs”</li>
+</ul>
+<p>This is the new culture of supporting SMMEs’ as well as offering our youth with permanent employment.</p>
+<p><a href="single-service.php?data=financialmentorship" style="color:royalblue;">Financial Administrators:</a> will work hand in hand with Entrepreneurs to manage financial tasks e.g. processing of financial information, preparation of financial reports and interpretation thereof, controlling cash-flow systems and budgeting.</p>
+<p>Accounting Entrepreneurs: will be servicing Small and Micro Businesses under the guidance of PZ Finance Institute – under a mentorship programme called “SIYAKHULISA”</p>
+<p>We are moved and persuaded to craft and make more leaders of impact in their own right who will be able to stand and present forth reality and essence of what is required in growing and affecting our economy.</p>
+<h1>&nbsp;</h1>
+HTML;
+
+
+
+$GLOBALS['level3ac']['inname'] = "Level 3 Accounting Technician";
+$GLOBALS['level3ac']['indata'] = <<< HTML
+<h3>Certificate: Level 3 Accounting Technician</h3>
+<p>Do you have a firm understanding of numbers, a passion for accounting or the desire to run your own business?</p>
+<p>Bookkeeping is a rewarding career path. The field is constantly growing, and it isn’t narrow—nor is it boring.</p>
+<p>The hard working bookkeeper does everything from maintaining financial records, problem solving to taking on the role of trusted financial advisor.</p>
+<blockquote>With this AT SA qualification, you can act as a creditor, debtor and payroll clerk, calculating monthly remunerations and returns, as well as reconciling bank and supplier statements. These duties are integral to the successful administration of a business.</blockquote>
+<p><b>Entry Requirements</b><br/>
+You must have a good level of literacy and numeracy and must be able to complete assessments in English.</p>
+<p><b>The programme covers</b>
+<ul>
+<li>Basic Accounting I</li>
+<li>Basic Accounting II</li>
+<li>Basic Costing</li>
+<li>Computerised Accounting</li>
+<li>Work Effectively in Accounting and finance</li>
+</ul>
+ </p>
+<h3 style="color:dodgerblue;">
+<a href="single-institute.php?data=level4ac"><h3 style="color:royalblue;">Level 4</h3></a>
+<a href="single-institute.php?data=level5ac"><h3 style="color:royalblue;">Level 5</h3></a>
+
+HTML;
+
+
+$GLOBALS['level4ac']['inname'] = "Level 4 Accounting Technician";
+$GLOBALS['level4ac']['indata'] = <<< HTML
+<h3>Certificate: Level 4 Accounting Technician</h3>
+<p>The reasons to study a bookkeeping course go further than just having a head for numbers and amazing organizational skills.</p>
+<p>From big industry leaders in finance and economics to the local grocery store down the road, every business needs someone to look after their books.</p>
+<p>The level 4 qualification is the second level of the AT SA Accounting Qualification. It introduces you to more complex accounting tasks, such as maintaining cost accounting records and the preparation of reports and returns.</p>
+<p>We provide a solid base for building a career in accounting, finance and business.</p>
+<blockquote>Our AT(SA) qualification equips you with the latest, and industry related knowledge and skills.</blockquote>
+<p><b>Entry Requirements</b><br/>
+You need to have successfully completed the level 3 qualification or if you already have completed previous studies in Accounting.</p>
+<p><b>The programme covers</b>
+<ul>
+<li>Accounts Preparation I</li>
+<li>Accounts Preparation II</li>
+<li>Cash Management</li>
+<li>Costs & Revenues</li>
+<li>Indirect Tax</li>
+<li>Spreadsheet Software</li>
+<li>Professional Ethics in Accounting and Finance (PEAF)</li>
+</ul>
+ </p>
+<h3 style="color:dodgerblue;">
+<a href="single-institute.php?data=level3ac"><h3 style="color:royalblue;">Level 3</h3></a>
+<a href="single-institute.php?data=level5ac"><h3 style="color:royalblue;">Level 5</h3></a>
+
+HTML;
+
+$GLOBALS['level5ac']['inname'] = "Level 5 Accounting Technician";
+$GLOBALS['level5ac']['indata'] = <<< HTML
+<h3>Certificate: Level 5 Accounting Technician</h3>
+<p>Bookkeepers perform general accounting duties. They maintain complete sets of financial records, keep track of accounts, and verify the accuracy of procedures used for recording financial transactions.</p>
+<p>The level 5 qualification is the third level of the AT SA Accounting Qualification and covers higher level accounting tasks, including drafting financial statements, managing budgets and evaluating financial performance.</p>
+
+<blockquote>You’ll also have the opportunity to specialise in areas from tax to auditing and credit control.</blockquote>
+<p><b>Entry Requirements</b><br/>
+You need to have successfully shown competency on AT (SA) level 4 qualification.</p>
+<p><b>The programme covers</b>
+<ul>
+<li>Financial Statements</li>
+<li>Budgeting</li>
+<li>Financial Performance</li>
+<li>Internal Control and Accounting Systems</li>
+<li>Personal Tax</li>
+<li>Business Tax</li>
+</ul>
+ </p>
+<h3 style="color:dodgerblue;">
+<a href="single-institute.php?data=level3ac"><h3 style="color:royalblue;">Level 3</h3></a>
+<a href="single-institute.php?data=level4ac"><h3 style="color:royalblue;">Level 4</h3></a>
+
+HTML;
+
+
+
+$GLOBALS['rfe']['inname'] = "Real Finance for Entrepreneurs";
+$GLOBALS['rfe']['indata'] = <<< HTML
+<h3>Real Finance for Entrepreneurs Level 1</h3>
+<p>This programme is suitable for start-up businesses.</p>
+<br/>
+<blockquote>ACCOUNTING:<br/>Act. Think. Count.</blockquote>
+<br/>
+<p><b>Programme Outline</b>
+<ul>
+<li>Business Paperwork</li>
+<li>Record Keeping System</li>
+<li>Understanding of money in and out of the business</li>
+<li>Separation between personal and business expenses</li>
+<li>Income Tax compliance</li>
+</ul>
+ </p>
+<h3 style="color:dodgerblue;">
+<a href="single-institute.php?data=rfe2"><h3 style="color:royalblue;">Level 2</h3></a>
+
+HTML;
+
+
+$GLOBALS['rfe2']['inname'] = "Real Finance for Entrepreneurs";
+$GLOBALS['rfe2']['indata'] = <<< HTML
+<h3>Real Finance for Entrepreneurs Level 2</h3>
+<p>This programme is suitable for start-up businesses.</p>
+<br/>
+<blockquote>ACCOUNTING:<br/>Act. Think. Count.</blockquote>
+<br/>
+<p><b>Programme Outline</b>
+<ul>
+<li>Introduction to accounting </li>
+<li>terminology</li>
+<li>Understanding of Income and expenditure statement</li>
+<li>Understanding of balance sheet</li>
+<li>Keeping staff and business permanent records</li>
+<li>Tax compliance (VAT, PAYE, UIF and SDL)</li>
+</ul>
+ </p>
+<h3 style="color:dodgerblue;">
+<a href="single-institute.php?data=rfe"><h3 style="color:royalblue;">Level 1</h3></a>
+
+HTML;
+
+
+
+$GLOBALS['sivusaumnotho']['inname'] = "Sivusa Umnotho Wethu";
+$GLOBALS['sivusaumnotho']['indata'] = <<< HTML
+<h3>Sivusa Umnotho Wethu</h3>
+<p>This is the practical case study aiming to provide an entrepreneur with an understanding of challenges in running a business.</p>
+<br/>
+<blockquote>ACCOUNTING:<br/>Act. Think. Count.</blockquote>
+<br/>
+<p>The target market for this programme is small businesses in townships and in rural areas because some of these businesses have the potential to grow but are not formalized so they lose the opportunity of accessing finance.
+ </p>
+<h3 style="color:dodgerblue;">
+<a href="institute.php"><h3 style="color:royalblue;">Finance Institute</h3></a>
+
+HTML;
+
+
+
+
+
+
+
+
+//keep code in check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
